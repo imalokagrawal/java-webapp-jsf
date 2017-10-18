@@ -5,7 +5,7 @@
 	<groupId>com.atakancoban</groupId>
 	<artifactId>hellojsf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>Hello JSF</name>
 	
 <!-- JSF Dependency -->
