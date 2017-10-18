@@ -11,7 +11,7 @@ public class HelloBean  implements Serializable{
 
 	private static final long serialVersionUID = -4823295172962937652L;
 	
-	private String message = "www.atakancoban.com";
+	private String message = "Welcome to Sample JSF Application running on Azure";
 
 	public String getMessage() {
 		return message;
@@ -19,11 +19,5 @@ public class HelloBean  implements Serializable{
 
 	public void setMessage(String message) {
 		this.message = message;
-	}
-	
-	
-	
-	
-	
-	
+	}	
 }
